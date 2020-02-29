@@ -1,0 +1,8 @@
+
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/CarList.qml</file>
+        <file>qml/CarListModel.qml</file>
+    </qresource>
+</RCC>
